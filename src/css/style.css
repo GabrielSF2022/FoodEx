@@ -16,6 +16,7 @@ body{
     background: var(--bg-color);
 }
 
+
 header{
     position: fixed;
     width: 100%;
@@ -83,6 +84,7 @@ header{
 section{
     padding: 80px 18%;
 }
+
 
 
 /* home */
