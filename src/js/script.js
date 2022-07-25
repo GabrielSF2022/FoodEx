@@ -1,6 +1,5 @@
 function scrollReveal(){
-
-    ScrollReveal({reset: true});
+    ScrollReveal({ reset:true});
 
     ScrollReveal().reveal('.home', { delay: 500});
     ScrollReveal().reveal('.about', { delay: 500});
@@ -8,7 +7,7 @@ function scrollReveal(){
     ScrollReveal().reveal('.team', { delay: 500});
     ScrollReveal().reveal('.newsletter', { delay: 500});
     ScrollReveal().reveal('.blog', { delay: 500});
-    ScrollReveal().reveal('.contact', { delay: 500});
+    ScrollReveal().reveal('.contact', { delay: 500}); 
 }
 scrollReveal()
 
